@@ -1,9 +1,9 @@
-// This file was added by layer0 init.
+// This file was added by edgio init.
 // You should commit this file to source control.
 
-import { Router } from '@layer0/core/router'
-import { CacheOptions } from '@layer0/core/router/CacheOptions'
-import { nuxtRoutes, renderNuxtPage } from '@layer0/nuxt'
+import { Router } from '@edgio/core/router'
+import { CacheOptions } from '@edgio/core/router/CacheOptions'
+import { nuxtRoutes, renderNuxtPage } from '@edgio/nuxt'
 
 const HTML: CacheOptions = {
   edge: {

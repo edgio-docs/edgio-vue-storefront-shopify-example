@@ -1,0 +1,4 @@
+node_modules
+# Edgio generated build directory
+.edgio
+.nuxt
